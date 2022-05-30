@@ -1,0 +1,167 @@
+result_preprocessing,label
+"['min', 'mainnakerpresidensiggindonesiaewgindonesia']",positif
+"['ayo', 'takut', 'amerika', 'rusia', 'ketemu', 'bal', 'gindonesia', 'hebat', 'bu', 'da']",negatif
+"['gera', 'nasional', 'literasi', 'digital', 'digital', 'talent', 'scholarship', 'digital', 'leadership', 'academy', 'program', 'kartu', 'prakerjalpsi']",positif
+"['indonesia', 'indonesiajuara', 'indonesiahebatindonesiadamai']",positif
+"['keren', 'bangetmas', 'memtri', 'program', 'merdeka', 'belajarnyagindonesia', 'presidensiindonesia']",positif
+"['konsumen', 'konsumen', 'industri', 'rumah', 'tangga', 'daya', 'koperasi', 'koperasi']",positif
+"['lapor', 'bisa', 'cewe', 'bego', 'bencong', 'joget', 'suka', 'mending', 'doa', 'perang']",negatif
+"['yth', 'rencana', 'koperasi', 'core', 'values']",positif
+"['bal', 'gindonesiaakan', 'putus']",negatif
+"['cewe', 'bencong', 'joget', 'diteriakin', 'mending', 'doa', 'perang', 'event']",negatif
+"['cewe', 'bego', 'bencong', 'joget', 'suka', 'mending', 'doa', 'perang', 'event']",negatif
+"['cewe', 'bego', 'bencong', 'joget', 'tonton', 'mending', 'doa', 'perang', 'event']",negatif
+"['gila', 'bencong', 'nari', 'tonton', 'pikirin', 'ancam', 'event', 'bal', 'indonesia']",negatif
+"['gila', 'lo', 'bahas', 'perang', 'rusia', 'ukraina', 'formula', 'urus', 'bang', 'mending', 'lo', 'nonton']",negatif
+"['amerika', 'negara', 'besara', 'negara', 'pro', 'damai', 'amerika', 'gindonesia']",positif
+"['joget', 'kaya', 'bencong', 'nonton', 'org', 'indo', 'mikir', 'ancam', 'event']",negatif
+"['kesel', 'gw', 'isi', 'twitter', 'bencong', 'joget', 'mikir', 'indonesia']",negatif
+"['tetap', 'kota', 'bandung', 'jawa', 'barat', 'lokasi', 'selenggara', 'temu', 'kelompok', 'kerja']",positif
+"['ngapain', 'lo', 'ngurusin', 'bencong', 'nari', 'pikirin', 'formula', 'ancam', 'event']",negatif
+"['potensi', 'kuat', 'indonesia', 'bangun', 'kerja', 'konkret', 'usaha', 'amerika', 'serikat', 'indonesia', 'kemban']",positif
+"['upaya', 'wujud', 'transformasi', 'digital', 'negeri', 'juang']",positif
+"['berlangsungthe', 'sustainable', 'finance', 'private', 'sector', 'roundtable', 'xd', 'forum', 'diskus']",positif
+"['acara', 'jg', 'momentum', 'kuat', 'promosi', 'produk', 'umkm', 'lokal', 'jalan', 'agenda', 'inklusi', 'uang', 'pd', 'presidensi']",positif
+"['alhamdulillah', 'presiden', 'elon', 'musk', 'hadir', 'gindonesia', 'november']",positif
+"['alhamdulillah', 'presiden', 'hadir', 'november']",positif
+"['anggota', 'seru', 'perang', 'mungkinhal', 'menkeusmi', 'konferesi', 'pers', 'ada']",positif
+"['women', 'business', 'action', 'council', 'wibac', 'gelar', 'temu', 'bilateral', 'menteri', 'koperasi', 'ukm', 'republik', 'indo']",positif
+"['rencana', 'renovasi', 'kubah', 'gedung', 'dpr', 'streaming', 'jam', 'kanal', 'youtube']",positif
+"['bahlil', 'presidensi', 'indonesia', 'momentum', 'baik', 'rangka', 'bangun', 'konsepsi', 'gl']",positif
+"['dasar', 'lapor', 'climate', 'bonds', 'initiative', 'terbit', 'obligasi', 'hijau', 'green', 'bonds', 'indonesia', 'capai', 'us']",positif
+"['berita', 'komitmen', 'indonesia', 'tunisia', 'buka', 'tingkat', 'kerjasama', 'bidang', 'ekonomi']",positif
+"['besok', 'turnamen', 'final', 'arena', 'dr', 'zomboss', 'comebackpvz', 'arena', 'pennyspursuit', 'gindonesia']",positif
+"['bonus', 'demografi', 'sempat', 'strategis', 'cepat', 'bangun', 'du']",positif
+"['dewg', 'gindonesia', 'sepakat', 'isu', 'krusial', 'dunia', 'digital']",positif
+"['ekosistem', 'didik', 'indonesia', 'gotong', 'royong', 'akselerasi', 'transformasi', 'seba']",positif
+"['temu', 'kemendikbudristek', 'kuat', 'komitmen', 'pulihbersama', 'cipta', 'didik']",positif
+"['rangka', 'luas', 'diskusi', 'selenggara', 'giat', 'road', 'to', 'investment', 'forum', 'topi']",positif
+"['rangka', 'tingkat', 'upaya', 'strategis', 'gabung', 'cepat', 'transisi', 'energi', 'kurang', 'emisi', 'karbon']",positif
+"['rangka', 'wujud', 'upaya', 'global', 'pulihbersama', 'cipta', 'didik', 'kualitas', 'dunia']",positif
+"['delegasi', 'dewg', 'upaya', 'atas', 'senjang', 'digital', 'bahas', 'perangkat', 'ukur', 'terampil', 'lite']",positif
+"['muka', 'temu', 'nd', 'global', 'partnership', 'for', 'financial', 'inclusion', 'plenary', 'meeting', 'diselenggarak']",positif
+"['dana', 'fungsi', 'dukung', 'tahan', 'stabilitas', 'ekonomi', 'pulihbersama', 'asobat', 'pantau']",positif
+"['duduk', 'usia', 'produktif', 'banding', 'usia', 'nonproduktif']",positif
+"['digitalisasi', 'sektor', 'uang', 'salah', 'game', 'changer', 'dunia', 'upaya', 'pulihbersama', 'akibat', 'pandemi', 'covi']",positif
+"['direktur', 'utama', 'rumah', 'sakit', 'pusat', 'infeksi', 'sulianti', 'saroso', 'dr', 'mohammad', 'syahril', 'resmi', 'juru', 'bicara', 'kemenkes']",positif
+"['capai', 'raih', 'agenda', 'prioritas', 'edwg', 'bahas', 'solidaritas']",positif
+"['dukung', 'umkmgodigitalgoglobal', 'bahas', 'utama', 'kki', 'giat']",positif
+"['dunia', 'didik', 'alami', 'pandemi', 'covid', 'salah', 'perhat']",negatif
+"['era', 'indonesia', 'jalan', 'bangga', 'kepala', 'tegak', 'hadap', 'bangsa', 'tunduk', 'tegak']",positif
+"['final', 'dokumen', 'sidang', 'ganti', 'wali', 'anak', 'almh', 'farahberita', 'lengkap', 'silah', 'klik', 'link']",negatif
+"['empower', 'gelar', 'plenary', 'meeting', 'yogyakarta', 'dorong', 'kontribusi', 'peran', 'perempuan']",positif
+"['hardiknas', 'rutan', 'jeneponto', 'gelar', 'upacara', 'bendera', 'ingat', 'didik', 'nasional', 'lengkap', 'baca']",positif
+"['hai', 'sohisebagai', 'temu', 'konferensi', 'internasional', 'imf', 'world', 'bank', 'ktt']",positif
+"['langsung', 'dorong', 'ubah', 'ukm', 'konvensional', 'digital', 'peran', 'teknologi']",positif
+"['halo', 'sobatkom', 'indonesia', 'resmi', 'pegang', 'presidensi', 'penuh', 'manfaat']",positif
+"['halo', 'sobatkom', 'bentuk', 'tuju', 'wujud', 'tumbuh', 'global', 'kuat', 'lanjut', 'lantas']",positif
+"['happy', 'vesak', 'daypray', 'for', 'peace', 'and', 'harmony', 'on', 'this', 'auspicious', 'dayselamat', 'raya', 'waisak', 'be']",positif
+"['turnamen', 'final', 'arena', 'dr', 'zomboss', 'muncul', 'kembalipvz', 'arena', 'pennyspursuit', 'gindonesia']",positif
+"['indonesia', 'gpedia', 'lapang', 'kerja', 'lanjut', 'agenda']",positif
+"['indonesia', 'peluang', 'untukrewriting', 'global', 'ev', 'and', 'esg', 'supply', 'chain', 'xd', 'kombinasi', 'sumber', 'daya', 'alam', 'indust']",positif
+"['diskusi', 'aspirasi', 'delegasi', 'negara', 'kemendikbudristek', 'ikut', 'informasi']",positif
+"['lanjut', 'kunjung', 'menko', 'luhut', 'binsar', 'pandjaitan', 'dubes', 'ros', 'roeslani', 'minggu']",positif
+"['wargi', 'bantu', 'komunitas', 'lokal', 'hadap', 'tantang', 'pulih', 'ekonomi', 'sosial']",positif
+"['lewat', 'kuliah', 'peran', 'aktif', 'indonesia', 'upaya', 'indonesia', 'deeskalasi', 'konflik', 'rusiaukrain']",positif
+"['jokowi', 'effect', 'harga', 'sawit', 'rekor', 'tinggi', 'minyakgoreng', 'cpo', 'sawit', 'indonesia', 'gindonesia']",positif
+"['jubir', 'maudy', 'ayunda', 'fokus', 'utama', 'isu', 'energi', 'gindonesia', 'maudyayunda', 'jernihkanharapan', 'kompascom']",positif
+"['presidensi', 'gindonesia', 'tekan', 'luas', 'akses', 'uang', 'tingkat', 'inklusi', 'uang']",positif
+"['kasihan', 'teman', 'dar', 'lilit', 'karet', 'gelang', 'plastik', 'tubuh', 'susut', 'tekuk', 'karet']",negatif
+"['kawal', 'programkerja', 'baik', 'bangsa', 'negara', 'gindonesia', 'sayabersamajokowi', 'ht']",positif
+"['berani', 'presiden', 'tolak', 'intervensi', 'us', 'undang', 'rusia', 'ukraina', 'gindonesia', 'sorot', 'media', 'dunia']",positif
+"['giat', 'bahas', 'tantang', 'upaya', 'kuat', 'produktivitas', 'daya', 'saing']",positif
+"['kemendikbudristek', 'tekan', 'transformasi', 'bas', 'gotong', 'royong', 'pulih', 'didik']",positif
+"['kominfo', 'buka', 'sidang', 'dewg', 'presidensi', 'indonesia', 'saj']",positif
+"['kuliah', 'umumperan', 'aktif', 'indonesia', 'upaya', 'indonesia', 'deeskalasi', 'konflik', 'rusiaukraina', 'xd', 'inaugurasi']",positif
+"['lapor', 'cewe', 'bego', 'bencong', 'joget', 'suka', 'perang', 'event', 'bal', 'ind']",negatif
+"['lemhanas', 'siap', 'skenario', 'bahas', 'ekonomi', 'global', 'forum']",positif
+"['main', 'tebaktebakan', 'yuk', 'rekanaker', 'isu', 'prioritas', 'bahas', 'employment', 'working', 'group', 'ewg', 'meeting', 'gindon']",positif
+"['mangrove', 'forest', 'area', 'tahura', 'ngurah', 'rai', 'telaga', 'waja', 'benoa', 'bay', 'nusa', 'bal', 'recovertogetherrecoverstronger']",positif
+"['mantuul', 'makan', 'hidang', 'tarik', 'padu', 'warna', 'undang', 'perhati', 'delegasi']",positif
+"['mari', 'dukung', 'penuh', 'temu', 'empower', 'jadi', 'perempuan', 'katalisator', 'bangun', 'ek']",positif
+"['mari', 'dukung', 'penuh', 'temu', 'empower', 'jadi', 'perempuan', 'katalisator', 'bangun', 'ekonomi', 'dunia']",positif
+"['inklusi', 'uang', 'transformasi', 'digital', 'yamaka', 'topik']",positif
+"['terobos', 'merdeka', 'ajar', 'pulih', 'ajar', 'hadir', 'kur']",positif
+"['lanjut', 'temu', 'perdana', 'education', 'working', 'group', 'edwg', 'maret', 'kemendikbudristek']",positif
+"['mendikbud', 'ristek', 'nadiem', 'makarim', 'kenal', 'program', 'merdeka', 'ajar', 'negaranegara']",positif
+"['mendikbudristek', 'terobos', 'merdeka', 'ajar', 'temu', 'edwg', 'gindonesia', 'presiden']",positif
+"['menindaklanjuti', 'st', 'edmcswg', 'yogyakarta', 'temu', 'laksana', 'jakarta', 'tang']",positif
+"['menkominfo', 'johnny', 'plate', 'perintah', 'koordinasi', 'anggota', 'partner', 'lokal', 'globa']",positif
+"['menkominfo', 'harap', 'sidang', 'dewg', 'hasil', 'sepakat', 'baik', 'delegasi', 'milik']",positif
+"['menkominfo', 'sidang', 'dewg', 'jalan', 'lancar', 'fokus', 'paham', 'meleng']",positif
+"['menparekraf', 'pesan', 'depan', 'kolaborasi', 'bangun', 'pariwisata', 'lanjut', 'depa']",positif
+"['menteri', 'uang', 'sri', 'mulyani', 'temu', 'finance', 'ministers', 'and', 'central', 'bank', 'governors', 'fmcbg']",positif
+"['menteri', 'komunikasi', 'informatika', 'johnny', 'plate', 'sambut', 'delegasi', 'negara', 'anggota', 'hadir']",positif
+"['coba', 'tulis', 'harap', 'presidensi', 'indonesia', 'kolom', 'komentar', 'xgindonesia', 'pulihbersama']",positif
+"['narahubung', 'makincakapdigital', 'cfdsbagiilmu', 'eventmahasiswa', 'eventjogja', 'eventonline']",positif
+"['bekerjasama', 'sinarmas', 'land', 'ada', 'side', 'event', 'temaac']",positif
+"['one', 'global', 'women', 'empowerment', 'ogwe', 'platform', 'rancang', 'usaha', 'perempuan', 'didu']",positif
+"['prakarsa', 'anggota', 'pandang', 'lindung', 'adaptif', 'kerja', 'informal', 'luas', 'tin']",positif
+"['selenggara', 'seminar', 'internasional', 'side', 'event', 'gindonesi']",positif
+"['laksana', 'koordinasi', 'bahas', 'isuisu', 'sherpa', 'track', 'peran', 'mem']",positif
+"['pandemi', 'covid', 'turun', 'daya', 'beli', 'masyarakat', 'pasal', 'masyarakat', 'kurang', 'interaksi', 'ruang']",positif
+"['pasar', 'ekologi', 'argowijil', 'pasar', 'tradisional', 'pegang', 'prinsip', 'kendali', 'bangun', 'sektor', 'tambang']",positif
+"['bahas', 'isu', 'temu', 'sherpa', 'track', 'harap', 'hasil', 'political', 'declaration', 'tingkat', 'mente']",positif
+"['bentuk', 'pasar', 'ekologis', 'inisiasi', 'pulih', 'lokasi', 'bekas', 'tambang']",positif
+"['perata', 'akses', 'energi', 'negara', 'kepulauangindonesia', 'dorongnkrilebihmaju']",positif
+"['perintah', 'indonesia', 'forum', 'dorong', 'tingkat', 'aksesibilitas', 'negara', 'kepulauangindonesia']",positif
+"['perintah', 'indonesia', 'forum', 'dorong', 'tingkat', 'aksesibilitas', 'negara', 'kepulauanpemerataan', 'aks']",positif
+"['guna', 'kendara', 'listrik', 'salah', 'strategi', 'capai', 'target', 'indonesia', 'turun', 'emisi']",positif
+"['cepat', 'inklusi', 'uang', 'transformasi', 'digital', 'dorong', 'tumbuh', 'ekonomi', 'lanjut', 'salah']",positif
+"['cepat', 'inklusi', 'uang', 'transformasi', 'digital', 'dorong', 'tumbuh', 'ekonomi', 'lanjut', 'salah', 'fo']",positif
+"['sidang', 'mohon', 'ganti', 'wali', 'relokasi', 'tiga', 'anak', 'almh', 'farah', 'rasyid', 'munif', 'tanah', 'air']",positif
+"['temu', 'education', 'working', 'group', 'edwg', 'bahas', 'agenda', 'prioritas', 'inisiatif', 'kemendikbudristek']",positif
+"['temu', 'fokus', 'agenda', 'prioritas', 'edwg', 'didik', 'kualitas', 'universal', 'teknologi', 'digi']",positif
+"['temu', 'fokus', 'agenda', 'prioritas', 'edwg', 'didik', 'kualitas', 'universal', 'teknologi', 'digital']",positif
+"['temu', 'tuju', 'bahas', 'kajiankajian', 'cswg', 'dasar', 'masuk', 'saran', 'negaranegara']",positif
+"['temu', 'digital', 'economy', 'working', 'group', 'dewg', 'selenggara', 'mei', 'yogyakarta', 'tem']",positif
+"['temu', 'digital', 'economy', 'working', 'group', 'dewg', 'selenggara', 'mei', 'yogyakarta', 'temu']",positif
+"['temu', 'kelompok', 'kerja', 'didik', 'education', 'working', 'group', 'edwg', 'bahas', 'tingkat', 'kap']",positif
+"['temu', 'dasar', 'agenda', 'bahas', 'agenda', 'temu', 'tiga', 'labu', 'bajo', 'juli', 'presidensi']",positif
+"['temu', 'dasar', 'agenda', 'bahas', 'agenda', 'temu', 'tiga', 'labu', 'bajo', 'juli', 'presidensi']",positif
+"['serta', 'delegasi', 'negara', 'dewg', 'ajak', 'nikmat', 'makan', 'malam', 'tunjuk', 'sendratari', 'latar', 'belak']",positif
+"['planet', 'layak', 'huni', 'smua', 'manusia', 'pandang', 'status', 'ekonomi', 'gindonesia']",positif
+"['praktek', 'baik', 'jawa', 'barat', 'huni', 'produktif', 'terjangkaugindonesia', 'uindonesia', 'pulihbersama']",positif
+"['presiden', 'joko', 'widodo', 'komunikasi', 'via', 'salur', 'telepon', 'presiden', 'rusia', 'vladimir', 'putin', 'kait', 'agenda', 'ktt', 'komun']",positif
+"['presiden', 'joko', 'widodo', 'tolak', 'amerika', 'serikat', 'salah', 'jadwal', 'kunjung', 'kerja', 'nyata']",positif
+"['presiden', 'jokowi', 'tegas', 'implementasi', 'rencana', 'investasi', 'temu', 'chairman', 'ceo', 'air', 'products', 'seif']",positif
+"['presiden', 'iriana', 'jokowi', 'washington', 'dcyoutube', 'pusaka']",positif
+"['presidensi', 'indonesia', 'tekan', 'inklusi', 'uang', 'digital', 'biaya', 'umkm', 'kurang']",positif
+"['presidensi', 'indonesia', 'tekan', 'inklusi', 'uang', 'digital', 'biaya', 'umkm', 'kurang', 'kesenj']",positif
+"['presidensi', 'indonesia', 'usul', 'prinsip', 'ukur', 'literasi', 'digital', 'infrastruktur', 'ekosistem', 'literasi', 'pember']",positif
+"['presidensi', 'indonesia', 'usul', 'prinsip', 'ukur', 'literasi', 'digital', 'infrastruktur', 'ekosistem', 'literasi']",positif
+"['private', 'finance', 'wujud', 'bangun', 'lanjut', 'negaranegara', 'kembang', 'least', 'developing', 'countries']",positif
+"['proporsi', 'energi', 'baru', 'ebt', 'bangkit', 'listrik', 'indonesia', 'kisar', 'tertingg']",positif
+"['rabu', 'menkominfo', 'johnny', 'plate', 'damping', 'chair', 'alternate', 'chair', 'dewg', 'konferen']",positif
+"['rabu', 'menkominfo', 'johnny', 'plate', 'damping', 'chair', 'alternate', 'chair', 'dewg', 'konferensi', 'pe']",positif
+"['rumah', 'tahan', 'negara', 'kelas', 'iimajene', 'mengucapkanselamat', 'ingat', 'didik', 'nasional', 'pimpin']",positif
+"['sabilulungan', 'filosofi', 'sunda', 'lekat', 'gotong', 'royong', 'alas', 'pilih', 'bandung', 'lokasi', 'pert']",positif
+"['sahabatdikbud', 'mendikbudristek', 'buka', 'temu', 'edwg', 'tekan', 'gotong', 'royong', 'sbg', 'pengg']",positif
+"['sahabatdikbud', 'mendikbudristek', 'buka', 'temu', 'edwg', 'tekan', 'gotong', 'royong', 'sbg']",positif
+"['sahabatdikbud', 'lanjut', 'temu', 'perdana', 'education', 'working', 'group', 'edwg', 'maret', 'kemendikbudristek']",positif
+"['sahabatdikbud', 'lanjut', 'temu', 'perdana', 'education', 'working', 'group', 'edwg', 'maret', 'kemendikbudristek']",positif
+"['sahabatdikbud', 'temu', 'education', 'working', 'group', 'edwg', 'bahas', 'agenda', 'prioritas', 'inisiatif', 'dik']",positif
+"['sahabatdikbud', 'temu', 'education', 'working', 'group', 'edwg', 'bahas', 'agenda', 'prioritas', 'inisiatif', 'kemendikbudrist']",positif
+"['salah', 'tarik', 'daerah', 'gugus', 'vulkaniknya', 'gunung', 'rap']",positif
+"['salah', 'tarik', 'daerah', 'gugus', 'vulkaniknya', 'gunung', 'rap']",positif
+"['salah', 'upaya', 'transisi', 'energi', 'terap', 'gelar', 'guna', 'kendara', 'listrik', 'rama']",positif
+"['salah', 'ampu', 'trade', 'investment', 'and', 'industry', 'working', 'group', 'tiiwg', 'menteri', 'investasi']",positif
+"['salah', 'ampu', 'trade', 'investment', 'and', 'industry', 'working', 'group', 'tiiwg', 'menteri', 'investasi', 'bkpm']",positif
+"['insinyur', 'usaha', 'kagum', 'nikmat', 'sempat', 'langka', 'kunjung']",positif
+"['insinyur', 'usaha', 'kagum', 'nikmat', 'sempat', 'langka', 'kunjung']",positif
+"['khusus', 'presiden', 'jokowi', 'undang', 'presiden', 'as', 'joe', 'biden', 'hadir', 'konferensi', 'tingkat', 'ktt']",positif
+"['khusus', 'presiden', 'jokowi', 'undang', 'presiden', 'as', 'joe', 'biden', 'hadir', 'konferensi', 'tingkat', 'ktt']",positif
+"['kemendikbud', 'inisiasi', 'diskusi', 'baru', 'komitmen', 'global', 'tingkat', 'didik', 'unit']",positif
+"['kemendikbud', 'inisiasi', 'diskusi', 'baru', 'komitmen', 'global', 'tingkat', 'didik']",positif
+"['selamat', 'malam', 'temankeu', 'xpertemuan', 'finance', 'ministers', 'and', 'central', 'bank', 'governors', 'fmcbg', 'gindonesia', 'berlangs']",positif
+"['selamat', 'malam', 'temankeuberikut', 'agenda', 'gindonesia', 'mei', 'recovertogetherrecoverstronger']",positif
+"['selamat', 'ingat', 'bangkit', 'nasional', 'harkitnas', 'harkitnas', 'inidiplomasi', 'indonesianway', 'indone']",positif
+"['selamat', 'ingat', 'bangkit', 'nasional', 'harkitnas', 'harkitnas', 'inidiplomasi', 'indonesianway']",positif
+"['selaras', 'tuju', 'indonesia', 'tinggal', 'waris', 'nyata', 'tahan', 'lanjut', 'women']",positif
+"['moga', 'bawa', 'manfaat', 'indonesia', 'pimpin', 'industri', 'elektrifikasi', 'hidup', 'ikli']",positif
+"['moga', 'bawa', 'manfaat', 'indonesia', 'pimpin', 'industri', 'elektrifikasi', 'hidup']",positif
+"['bal', 'gindonesiaakan', 'putus']",negatif
+"['terampil', 'perempuan', 'empower', 'bantu', 'bcg', 'boston', 'consulting', 'group']",positif
+"['sherpa', 'track', 'forum', 'khusus', 'siap', 'bahas', 'isuisu', 'ekonomi', 'non', 'uang', 'pandu', 'pe']",positif
+"['sherpa', 'track', 'forum', 'khusus', 'siap', 'bahas', 'isuisu', 'ekonomi', 'non', 'uang', 'pandu', 'pembaha']",positif
+"['sherpa', 'track', 'salah', 'forum', 'khusus', 'gindonesia']",positif

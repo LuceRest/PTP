@@ -1,0 +1,25 @@
+tweet_clean,label
+"['b ada', 'pawang', 'hujan', 'nusantara', 'fakta', 'sulit', 'elak', 'percaya', 'mampu', 'daerah', 'n', 'nbesmart', 'besmartidn', 'beritaterkini', 'infoterbaru', 'pawanghujan', 'mandalika', 'motogpmandalika', 'mbakrara', 'rara']",positif
+"['b', 'ajaib', 'dunia', 'terkadang', 'jadi', 'nalar', 'logika', 'manusia', 'wallahu', 'a lam', 'bisshowab', 'n', 'npawanghujanmandalika', 'motogp', 'motogpmandalika', 'malu', 'rara']",positif
+"['b balap', 'indonesia', 'turun', 'ajang', 'moto', 'mario', 'suryo', 'aji', 'tampil', 'gemilang', 'babak', 'kualifikasi', 'sirkuit', 'mandal', 'xe', 'x', 'xa']",positif
+"['b', 'cibir', 'terpana', 'dgn', 'sakti', 'pawang', 'hujan', 'motogpmandalika', 'n', 'nsesaat', 'pawang', 'lauk', 'ritual', 'xe', 'x', 'xa']",negatif
+"['b dana', 'triliun', 'gelar', 'motogp', 'hapus', 'ayat', 'alquran', 'n', 'n']",negatif
+"['b dari', 'mandalika', 'presiden', 'iriana', 'lanjut', 'kunjung', 'kerja', 'bal', 'minggu', 'petang', 'maret', 'n', 'njokowi', 'kawaljokowi', 'jokowidodo', 'motogpmandalika', 'motogp', 'indonesiangp']",positif
+"['b hujan', 'deras', 'surut', 'semangat', 'ribu', 'tonton', 'tribun', 'sirkuit', 'mandalika', 'alhamdulillah', 'kembal', 'xe', 'x', 'xa']",positif
+"['b lelah', 'ribut', 'orang', 'gak', 'bis', 'utk', 'parkir', 'jarak', 'kilo', 'meter', 'kondisi', 'hujan', 'orang', 'lelah', 'motogpmandalika', 'tonton', 'lantar']",negatif
+"['b mana', 'momen', 'motogp', 'kesan', 'n', 'nstreaming', 'kanal', 'youtube', 'metrotvnews', 'n', 'nnewslinemetrotv', 'nmomenmotogpmand', 'xe', 'x', 'xa']",positif
+"['b menkumham', 'sambut', 'dukung', 'laksana', 'event', 'internasional', 'motogp', 'n', 'nbhpsemarang', 'kanwilkemenkumhamjateng', 'nayuspahruddin', 'nkumhampasti', 'beritaterkini', 'twitter', 'socialmedia', 'kemenkumham', 'kemenkumhamri', 'news', 'motogp', 'motogpmandalika', 'sport']",positif
+"['b miguel', 'oliveira', 'sembah', 'trofi', 'motogp', 'mandalika', 'staf', 'hotel', 'n', 'nselengkapnya', 'simak', 'infografis', 'n', 'ninews', 'infografis', 'motogpmandalika', 'sirkuitmandalika', 'motogp', 'migueloliviera', 'inibaruberita']",positif
+"['b miris', 'banget', 'yg', 'gak', 'beli', 'tiket', 'gak', 'sana', 'komentar', 'orang', 'yg', 'sana', 'ngerasain', 'real', 'kaya', 'gimana', 'buruk', 'nya', 'motogpmandalika', 'tonton', 'lantar', '', 'support', 'pny', 'ekspektasi', 'krn', 'harga', 'tiket', 'juta', 'ga', 'kasi', 'atap', 'hujan', 'lantar', '', 'wajar', 'kalo', 'ngeluh']",negatif
+"['b', 'moga', 'pariwisata', 'ntb', 'geliat', 'ekonomi', 'masyarakat', 'putar', 'motogpmandalika']",positif
+"['b', 'moga', 'sukses', 'sbg', 'selenggara', 'motogpmandalika', 'masa']",positif
+"['b motogpmandalika', 'orang', 'indo', 'nonton', 'komen', 'nya', 'sibuk', 'pawang', 'sampah', 'hujan', 'anggar', 'isi', 'nya', '', 'mir', 'finis', 'berapa', 'aja', 'ga', 'tau']",negatif
+"['b pada', 'kenal', 'pawang', 'hujan', 'dunia', 'lagu', 'judul', 'pluies', 'me', 'xe', 'x', 'xa']",negatif
+"['b pawang', 'hujan', 'thread', 'n', 'npertamina', 'motogp', 'mandalika', 'gelar', 'lepas', 'sukses', 'tidak', 'xe', 'x', 'xa']",positif
+"['b presiden', 'apresiasi', 'selenggara', 'kerja', 'siang', 'malam', 'event', 'nsegala', 'bentuk', 'kurang', 'evaluasi', 'sempurna', 'event', 'tahun', 'njokowi', 'kawaljokowi', 'motogpmandalika']",positif
+"['b presiden', 'joko', 'widodo', 'ucap', 'selamat', 'partisipasi', 'sukses', 'motogp', 'sirkuit', 'mandalika', 'n', 'nstreaming', 'kanal', 'youtube', 'metrotvnews', 'n', 'nprimetimenewsmetrotv', 'nmomenmotogpmandalika', 'nmotogpmandalika']",positif
+"['b profesi', 'pawang', 'hujan', 'mulia', 'tertawa', 'pawang', 'hujan', 'buang', 'sampah', 'sembarang', 'n', 'nmotogp', 'motogpmandalika', 'rara', 'netizen', 'malu']",positif
+"['b', 'sabar', 'mbak', 'gitu', 'dah', 'ga', 'nonton', 'tp', 'ngatain', 'yg', 'lokasi', 'sy', 'jg', 'bully', 'pdhl', 'sy', 'kezana', 'beli', 'tiket', 'jt', 'beli', 'biji', 'bayangin', 'sy', 'smpe', 'bikin', 'twitter', 'nge', 'up', 'kecewa', 'pda', 'motogpmandalika']",negatif
+"['b', 'terima', 'kasih', 'mbak', 'tread', 'cerah', 'kait', 'motogpmandalika', 'mudah', 'kurang', 'acara', 'kali', 'baik']",positif
+"['b yang', 'ken', 'pawang', 'hujan', 'mbak', 'rara', 'suaranyaa', 'n', 'n']",negatif
+"['b yang', 'sibuk', 'ngurusin', 'luar', 'isi', 'nya', 'tonton', 'musim', 'sibuk', 'ngurusin', 'banding', 'isi', 'balap', 'xf', 'xf', 'x', 'x', 'motogpmandalika']",negatif

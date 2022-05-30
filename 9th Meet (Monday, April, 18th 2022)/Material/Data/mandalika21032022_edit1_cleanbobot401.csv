@@ -1,0 +1,41 @@
+tweet_clean,label
+"['acara', 'motogp', 'mandalika', 'ubah', 'cek', 'update', 'motogp', 'schedule', 'baru', 'gp', 'indonesia']",positif
+"['data', 'tarik', 'statistik', 'juara', 'dunia', 'motogp', 'ajang', 'balap', 'motor', 'gelar', 'paruh', 'juara', 'kelas', 'motogp', 'menang', 'balap', 'kendara', 'motor', 'pabrikan', 'jepang','simak', 'ulas']",positif
+"['kenal', 'baju', 'putih', 'senggol', 'dong']",positif
+"['pawang', 'hujan', 'nusantara', 'fakta', 'sulit', 'elak', 'percaya', 'mampu', 'daerah']",positif
+"['pawang', 'hujan', 'ada', 'marching', 'band']",positif
+"['link', 'stream', 'motogp', 'lagi', 'rumah']",positif
+"['link', 'tongsis', 'tripod', 'review', 'dong']",positif
+"['budaya', 'melekat', 'membuat', 'gembira', 'lanjut', 'aksi', 'rider']",positif
+"['gagal', 'wet', 'race', 'nihhh']",negatif
+"['agak', 'ngeri', 'liat', 'riders', 'motogp', 'jalan', 'trek', 'basah', 'liat', 'goyang', 'motor', 'kena', 'genang']",positif
+"['ngga', 'semangat', 'sih', 'nggak', 'marc', 'marques']",negatif
+"['agenda', 'pekan', 'nonton']",positif
+"['ahok', 'masyarakat', 'ekonomi', 'nonton', 'gratis', 'motogp', 'mandalika', 'lewat']",negatif
+"['ajang', 'motogp', 'mandalika', 'bawa', 'manfaat', 'ekonomi', 'masyarakat']",positif
+"['ajang', 'motogp', 'mandalika', 'pilih', 'pandemi', 'stagnasi', 'ruang', 'publik', 'muhaimin']",positif
+"['akhir', 'indonesia', 'tunggu', 'thn', 'menyelagarakan', 'lombamotorgp', 'kali', 'sentul', 'indonesia', 'sdh', 'circuit', 'internasional', 'mandalika', 'lombok', 'motorgp', 'race', 'utama']",positif
+"['mimpi', 'wujud', 'komentator']",positif
+"['pekan', 'lanjut', 'musim', 'motogp', 'world', 'championship', 'debut', 'mutlak', 'kale']",negatif
+"['aksi', 'hebat', 'pawang', 'hujan']",positif
+"['aksi', 'jupiter', 'aerobatik', 'ramai', 'langit', 'mandalika']",positif
+"['aku', 'nontonnya', 'layar', 'aja', 'pake', 'indihome']",positif
+"['aku', 'presiden', 'jokowi', 'jago', 'marquez', 'alih', 'quartararo']",positif
+"['aku', 'pribadi', 'apresiasi', 'dgn', 'sukses', 'helat', 'akbar', 'event', 'international']",positif
+"['tiket', 'motogp', 'mandalika', 'nonton', 'tanggal', 'maret', 'sekarang', 'kasih', 'tiket', 'motogp', 'mandalika']",negatif
+"['akun', 'bola', 'ubah', 'akun', 'balap', 'ritual', 'syirik']",positif
+"['alas', 'jokowi', 'parade', 'balap', 'motogp']",positif
+"['tiket', 'laku', 'pandemi', 'jual', 'masker', 'indonesia', 'kurang', 'stok', 'masker']",negatif
+"['alex', 'rins', 'motor', 'bakar', 'sirkuit', 'motogp', 'mandalika', 'hindar', 'ledak', 'balap', 'suzuki', 'loncat']",negatif
+"['alex', 'rins', 'pekan', 'balap', 'motogp', 'indonesia', 'sirkuit', 'mandalika', 'gila']",negatif
+"['alhamdulillaahh', 'sukses']",positif
+"['alhamdulillah', 'angsur', 'reda', 'ayo', 'gas']",positif
+"['alhamdulillah', 'helat', 'akbar', 'pertamina', 'mandalika', 'motogp', 'aman', 'lancar']",positif
+"['alhamdulillah', 'lancar', 'sukses']",positif
+"['alhamdulillah', 'lancar', 'semoga', 'lekas', 'sembuh', 'marc', 'marquez', 'selamat', 'sang', 'juara', 'miguel', 'oliviera']",positif
+"['alhamdulillah', 'success']",positif
+"['alhamdulillah', 'sukses', 'smuanya', 'walo', 'jago', 'tampil', 'krn', 'jatuh', 'mlulu', 'bius', 'nyawer']",positif
+"['alhamdulillah', 'udh', 'reda']",positif
+"['alhamdulillah', 'berjalan', 'lancar']",positif
+"['alhamdulillah', 'presiden', 'jokowi', 'iriana', 'joko', 'widodo', 'bandara', 'internasional', 'lombok', 'zainuddin', 'abdul', 'madjid']",positif
+"['anak', 'bangsa', 'laga', 'juara', 'dunia', 'balap', 'motor', 'grand', 'prix', 'kelas', 'moto', 'mario', 'suryo', 'aji', 'kenal']",positif

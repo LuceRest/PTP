@@ -1,0 +1,42 @@
+result_preprocessing,label
+"['sobatrupiah', 'bi', 'dorong', 'kerja', 'digitalisasi', 'sistem', 'bayar', 'antarnegara', 'agenda', 'presidensi', 'gindonesi']",positif
+"['sobatrupiah', 'bi', 'dorong', 'kerja', 'digitalisasi', 'sistem', 'bayar', 'antarnegara', 'agenda', 'presidensi']",positif
+"['sobatrupiah', 'inklusi', 'uang', 'salah', 'fokus', 'bahas', 'presidensi', 'gindonesia', 'hmmm']",positif
+"['sobatrupiah', 'inklusi', 'uang', 'salah', 'fokus', 'bahas', 'presidensi', 'gindonesia', 'hmmm']",positif
+"['talk', 'show', 'safeguarding', 'naturetalk', 'show', 'ii', 'promoting', 'circular', 'economyyuk', 'daftar', 'diri', 'lin']",positif
+"['talk', 'show', 'safeguarding', 'naturetalk', 'show', 'ii', 'promoting', 'circular', 'economyyuk', 'daftar', 'diri', 'link', 'ber']",positif
+"['telaga', 'waja', 'mangrove', 'forest', 'area', 'benoa', 'bay', 'nusa', 'bal', 'recovertogetherrecoverstronger', 'gindonesia']",positif
+"['sektor', 'energi', 'kontributor', 'ubah', 'iklim', 'dominan', 'sumbang', 'emisi']",positif
+"['hubung', 'bonus', 'demografi', 'lpsindonesia', 'amanadalps', 'lpsamanadat', 'sa']",positif
+"['pilih', 'juru', 'bicara', 'presidensi', 'maudy', 'ayunda', 'papar', 'isu', 'transisi', 'energi', 'siap']",positif
+"['tarik', 'isu', 'putar', 'transformasi', 'digital', 'inklusi', 'uang', 'yuk', 'saksi', 'seminar', 'internasional', 'igital', 'transf']",positif
+"['ikut', 'kembang', 'informasi', 'kini', 'putar', 'laksana', 'dewg', 'media', 'sosial', 'xgindonesia', 'pulihbersama']",positif
+"['ikut', 'kembang', 'informasi', 'kini', 'putar', 'laksana', 'dewg', 'media', 'sosial', 'xgindonesia']",positif
+"['timmarves', 'yuk', 'kunjung', 'salah', 'lokasi', 'acara', 'promosi', 'produk', 'umkm', 'bal', 'co']",positif
+"['timmarves', 'yuk', 'kunjung', 'salah', 'lokasi', 'acara', 'promosi', 'produk', 'umkm', 'bal', 'collect']",positif
+"['transisi', 'energi', 'lanjut', 'salah', 'isu', 'prioritas', 'angkat', 'forum', 'presidensi', 'indonesia', 'foru']",positif
+"['tuju', 'giat', 'buka', 'wawas', 'peran', 'perempuan', 'usaha', 'tengah', 'mengidentifi']",positif
+"['umkm', 'salah', 'sektor', 'dampak', 'pandemi', 'pulihbersama', 'presidensi', 'gindonesia', 'mene']",positif
+"['umkm', 'salah', 'sektor', 'dampak', 'pandemi', 'pulihbersama', 'presidensi', 'gindonesia', 'menetapk']",positif
+"['update', 'covid', 'thailand', 'mei', 'orang', 'sembuh']",positif
+"['unjuk', 'ikut', 'ribu', 'kerja', 'gabung', 'serikat', 'kerja', 'freeport', 'tanda', 'aksi']",positif
+"['unjuk', 'ikut', 'ribu', 'kerja', 'gabung', 'serikat', 'kerja', 'freeport', 'tanda', 'aksi', 'mogok']",negatif
+"['negara', 'kerangka', 'inklusi', 'uang', 'dorong', 'digitalisasi', 'dampak', 'peni']",positif
+"['negara', 'kerangka', 'inklusi', 'uang', 'dorong', 'digitalisasi', 'dampak', 'tingkat']",positif
+"['versi', 'budaya', 'jawa', 'thailand', 'nihh', 'numpang', 'rame', 'gindonesia', 'thailandopen', 'thailand', 'wayang', 'polisi']",positif
+"['sispreneur', 'program', 'inkubasi', 'umkm', 'milik', 'perempuan', 'tuju', 'bantu']",positif
+"['xl', 'axiata', 'bangga', 'acara', 'selenggara', 'empower', 'perempuan', 'ukm', 'pe']",positif
+"['xl', 'axiata', 'bangga', 'acara', 'selenggara', 'empower', 'perempuan', 'ukm', 'pengge']",positif
+"['yuk', 'gabung', 'giat', 'nd', 'side', 'event', 'development', 'working', 'group', 'dwg', 'temamemperkuat', 'daya', 'sain']",positif
+"['yuk', 'gabung', 'giat', 'nd', 'side', 'event', 'development', 'working', 'group', 'dwg', 'temamemperkuat', 'daya', 'saing', 'umk']",positif
+"['yuk', 'ikut', 'nd', 'side', 'event', 'ada', 'empower', 'tema']",positif
+"['yuk', 'ikut', 'nd', 'side', 'event', 'ada', 'empower', 'temarebu']",positif
+"['yuk', 'sahabatbahari', 'dukung', 'giat', 'dewg', 'kenal', 'kuliner', 'daerah', 'dunia', 'gindonesia', 'gkkp', 'kkpaccele']",positif
+"['yuk', 'sahabatbahari', 'dukung', 'giat', 'dewg', 'kenal', 'kuliner', 'daerah', 'dunia', 'gindonesia', 'gkkp']",positif
+"['yuk', 'simak', 'video', 'pasar', 'ekologis', 'argowijil', 'yogyakarta']",positif
+"['sistem', 'moneter', 'fundamental', 'laku', 'barang', 'publik', 'jaga']",positif
+"['uratas', 'cerah', 'agama', 'islam', 'sejuk', 'cerdas', 'inklusif', 'aaamiiin', 'llohumma', 'aaamiiin']",positif
+"['ndonesiamaju', 'kamibersamajokowi', 'jokowidodo', 'indonesiamaju', 'indonesiamaju', 'gindonesia']",positif
+"['upaya', 'wujud', 'transformasi', 'digital', 'negeri', 'juang', 'meja']",positif
+"['promosi', 'strategi', 'cepat', 'inklusi', 'keuanganvideo', 'belajartanpabataskitapemelajarumkm']",positif
+"['promosi', 'strategi', 'cepat', 'inklusi', 'keuanganvideo', 'belajartanpabataskitapemelajarumkmgindonesia']",positif

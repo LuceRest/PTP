@@ -1,0 +1,30 @@
+#import library
+import tweepy
+import csv 
+
+####input key dan token
+consumer_key='-----------'
+consumer_secret='---------'
+
+access_token='----------'
+access_token_secret='-----------'
+
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret) 
+auth.set_access_token(access_token, access_token_secret)
+api = tweepy.API(auth,wait_on_rate_limit=True)
+
+#####MotoGP Mandalika
+# Open/Create a file to append data
+csvFile = open('motogpmandalika.csv', 'a')
+#Use csv Writer
+csvWriter = csv.writer(csvFile)
+ 
+for tweet in tweepy.Cursor(api.search_tweets,q="#motogpmandalika",count=100,lang="id").items():
+    print (tweet.created_at, tweet.text)
+    csvWriter.writerow([tweet.created_at, tweet.text.encode('utf8')])
+
+=========================
+import pandas as pd
+data = pd.read_csv('motogpmandalika.csv')
+len(data)
+#data.head()

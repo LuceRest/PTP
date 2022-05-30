@@ -1,0 +1,20 @@
+Tugas Besar --> 25 April 2022
+Buat maksimal 5 kelompok
+
+tugasnya Klasifikasi Analisis Sentimen
+1. crawling data teks di twitter tentang trending topik terkini (masing-masing kelompok tidak boleh sama)
+2. lakukan proses filtering data teks
+3. lakukan proses stemming dan tokenizing
+4. lakukan proses training dan testing menggunakan algoritma Klasifikasi (DT, NBC, NN, KNN, Support Vector Machine, Apriori)
+5. tentukan hasil akurasinya
+6. tampilkan tabel confusion matriknya
+7. jika menggunakan DT, tampilkan pohon keputusannya; Jika menggunakan NN, tampilkan arsitektur NN nya; jika menggunakan KNN, tampilkan perbandingan akurasi nilai K --> minimal nilai sejumlah 7
+
+tugas dari masing-masing tim
+
+mengumpulkan laporan tugas besar dalam bentuk PDF --> 29 Mei 2022
+Presentasi tugas besar --> 30 Mei 2022
+
+Lembar 1: Cover berisi ID dan judul
+lembar 2: kontribusi masing-masing anggota tim
+lembar 3: hasil pekerjaan (sertakan screenshot program dan hasilnya)

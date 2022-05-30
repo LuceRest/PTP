@@ -1,0 +1,25 @@
+tweet_clean,label
+"['ada', 'pawang', 'hujan', 'nusantara', 'fakta', 'sulit', 'elak', 'percaya', 'mampu', 'daerah', 'besmart', 'berita', 'terkini', 'info', 'terbaru', 'pawang', 'hujan', 'mandalika', 'motogp', 'mbakrara', 'rara']",positif
+"['ajaib', 'dunia', 'terkadang', 'jadi', 'nalar', 'logika', 'manusia', 'wallahu', 'a lam', 'bisshowab', 'pawang', 'hujan', 'mandalika', 'motogp', 'motogpmandalika', 'malu', 'rara']",positif
+"['balap', 'indonesia', 'turun', 'ajang', 'moto', 'mario', 'suryo', 'aji', 'tampil', 'gemilang', 'babak', 'kualifikasi', 'sirkuit', 'mandalika']",positif
+"['cibir', 'terpana', 'dgn', 'sakti', 'pawang', 'hujan', 'motogpmandalika', 'sesaat', 'pawang', 'lauk', 'ritual']",negatif
+"['dana', 'triliun', 'gelar', 'motogp', 'hapus', 'ayat', 'alquran']",negatif
+"['dari', 'mandalika', 'presiden', 'iriana', 'lanjut', 'kunjung', 'kerja', 'bali', 'minggu', 'petang', 'maret', 'jokowi', 'kawaljokowi', 'jokowidodo', 'motogpmandalika', 'motogp', 'indonesiangp']",positif
+"['hujan', 'deras', 'surut', 'semangat', 'ribu', 'tonton', 'tribun', 'sirkuit', 'mandalika', 'alhamdulillah', 'kembali']",positif
+"['lelah', 'ribut', 'orang', 'gak', 'bis', 'utk', 'parkir', 'jarak', 'kilo', 'meter', 'kondisi', 'hujan', 'orang', 'lelah', 'motogpmandalika', 'tonton', 'lantar']",negatif
+"['mana', 'momen', 'motogp', 'kesan', 'streaming', 'kanal', 'youtube', 'metrotvnews', 'newslinemetrotv', 'momen', 'motogpmandalika']",positif
+"['menkumham', 'sambut', 'dukung', 'laksana', 'event', 'internasional', 'motogp', 'semarang', 'kanwil', 'kemenkumham', 'jateng', 'ayuspahruddin', 'kumham', 'pasti', 'berita', 'terkini', 'twitter', 'socialmedia', 'kemenkumham', 'kemenkumhamri', 'news', 'motogp', 'motogpmandalika', 'sport']",positif
+"['miguel', 'oliveira', 'sembah', 'trofi', 'motogp', 'mandalika', 'staf', 'hotel', 'selengkapnya', 'simak', 'infografis', 'inews', 'infografis', 'motogpmandalika', 'sirkuitmandalika', 'motogp', 'migueloliviera', 'inibaruberita']",positif
+"['miris', 'banget', 'beli', 'tiket', 'komentar', 'orang', 'sana', 'ngerasain', 'real', 'kaya', 'gimana', 'buruk', 'nya', 'motogpmandalika', 'tonton', 'lantar', '', 'support', 'ekspektasi', 'krn', 'harga', 'tiket', 'juta', 'hujan', 'lantar', 'wajar', 'kalo', 'ngeluh']",negatif
+"['moga', 'pariwisata', 'ntb', 'geliat', 'ekonomi', 'masyarakat', 'putar', 'motogpmandalika']",positif
+"['moga', 'sukses', 'sbg', 'selenggara', 'motogpmandalika', 'masa']",positif
+"['motogpmandalika', 'orang', 'indonesia', 'nonton', 'komen', 'sibuk', 'pawang', 'sampah', 'hujan', 'anggar', 'finis', 'berapa']",negatif
+"['pada', 'kenal', 'pawang', 'hujan', 'dunia', 'lagu', 'judul', 'pluies']",negatif
+"['pawang', 'hujan', 'thread', 'pertamina', 'motogp', 'mandalika', 'gelar', 'lepas', 'sukses', 'tidak']",positif
+"['presiden', 'apresiasi', 'selenggara', 'kerja', 'siang', 'malam', 'event', 'segala', 'bentuk', 'kurang', 'evaluasi', 'sempurna', 'event', 'tahun', 'kawal', 'jokowi', 'motogpmandalika']",positif
+"['presiden', 'joko', 'widodo', 'ucap', 'selamat', 'partisipasi', 'sukses', 'motogp', 'sirkuit', 'mandalika', 'streaming', 'kanal', 'youtube', 'metrotvnews', 'primetimenewsmetrotv', 'momen', 'motogpmandalika']",positif
+"['profesi', 'pawang', 'hujan', 'mulia', 'tertawa', 'pawang', 'hujan', 'buang', 'sampah', 'sembarang', 'motogp', 'motogpmandalika', 'rara', 'netizen', 'malu']",positif
+"['sabar', 'mbak', 'gitu', 'nonton', 'ngatain', 'lokasi', 'bully', 'pdhl', 'kezana', 'beli', 'tiket', 'beli', 'biji', 'bayangin', 'smpe', 'bikin', 'twitter', 'kecewa', 'pda', 'motogpmandalika']",negatif
+"['terima', 'kasih', 'mbak', 'tread', 'cerah', 'kait', 'motogpmandalika', 'mudah', 'kurang', 'acara', 'kali', 'baik']",positif
+"['pawang', 'hujan', 'mbak', 'rara', 'suaranyaa']",negatif
+"['sibuk', 'ngurusin', 'luar', 'isi', 'nya', 'tonton', 'musim', 'sibuk', 'ngurusin', 'banding', 'isi', 'balap', 'motogpmandalika']",negatif
